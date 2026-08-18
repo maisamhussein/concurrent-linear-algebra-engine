@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Java / Maven
+target/
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.tmp
